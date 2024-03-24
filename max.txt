@@ -1,2 +1,4 @@
 - Max is sleeping
-- Max is eating
+- Max is eating 
+
+- Max is playing with a ball
